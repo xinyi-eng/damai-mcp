@@ -1,0 +1,2 @@
+[console_scripts]
+damai-mcp = damai_mcp.server:main
